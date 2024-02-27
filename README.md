@@ -4,7 +4,15 @@
 
 ## Description
 
-🚀 Welcome to Ali-Woo Reviews Scraper! This Python script fetches AliExpress reviews for a product, providing you with valuable insights. Easily customize and export reviews to a CSV file for analysis. A powerful tool to enhance your understanding of customer sentiments.
+🚀 **Welcome to Ali-Woo Reviews Scraper!** 
+Supercharge your WooCommerce store with this Python script! Capture AliExpress reviews, save them to a CSV, and effortlessly integrate them into your shop. Elevate your customer experience with authentic feedback. 🌟 #AliWooReviews #WooCommerceMagic
+
+## Features
+
+- 🪄 **Easy To Use**: Effortless scrape AliExpress reviews.
+- 📦 **Customizable**: Fetch reviews based on your preferences, including the number of reviews and minimum rating.
+- 🎉 **Enhance Credibility**: Provide your customers with authentic feedback to build trust.
+- 🌐 **Robust & Fast**: Efficiently scrape reviews with a robust script for a quick and reliable process.
 
 ## Usage
 
@@ -46,7 +54,7 @@
 
 ## Demo
 
-Watch the [Demo Video](assets/demo.mp4) to see the scraper in action.
+Watch the [Demo Video](https://res.cloudinary.com/ds64xs2lp/video/upload/v1709043061/demo_fjyehj.mp4) to see the scraper in action.
 
 ## Support
 
