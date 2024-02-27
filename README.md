@@ -59,7 +59,11 @@ Supercharge your WooCommerce store with this Python script! Capture AliExpress r
 
 Watch the [Demo Video](assets/preview.mp4) to see the scraper in action.
 
-<video src="assets/preview.mp4"></video>
+
+
+https://github.com/dakidarts/ali-woo-reviews-scraper/assets/83160629/e397d692-a2d3-439e-8c1a-b5da9ffea3e9
+
+
 
 ## 🪛 Support
 
