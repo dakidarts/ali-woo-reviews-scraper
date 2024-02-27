@@ -2,19 +2,19 @@
 
 ![Ali-Woo Reviews Scraper](assets/ali-woo-img.jpg)
 
-## Description
+## 📃 Description
 
 🚀 **Welcome to Ali-Woo Reviews Scraper!** 
 Supercharge your WooCommerce store with this Python script! Capture AliExpress reviews, save them to a CSV, and effortlessly integrate them into your shop. Elevate your customer experience with authentic feedback. 🌟 #AliWooReviews #WooCommerceMagic
 
-## Features
+## 🎛️ Features
 
 - 🪄 **Easy To Use**: Effortless scrape AliExpress reviews.
 - 📦 **Customizable**: Fetch reviews based on your preferences, including the number of reviews and minimum rating.
 - 🎉 **Enhance Credibility**: Provide your customers with authentic feedback to build trust.
 - 🌐 **Robust & Fast**: Efficiently scrape reviews with a robust script for a quick and reliable process.
 
-## Usage
+## 👨‍💻 Usage
 
 ### Get Started:
 
@@ -52,24 +52,29 @@ Supercharge your WooCommerce store with this Python script! Capture AliExpress r
 6. **Retrieve and Analyze:**
     - View your scraped reviews in the generated CSV file. Utilize this data to enhance your product understanding and customer satisfaction.
 
-## Demo
+## 🗳️ Demo
 
-Watch the [Demo Video](https://res.cloudinary.com/ds64xs2lp/video/upload/v1709043061/demo_fjyehj.mp4) to see the scraper in action.
+Watch the [Demo Video](assets/preview.mp4) to see the scraper in action.
 
-## Support
+## 🪛 Support
 
 For any issues or queries, feel free to [raise an issue](https://github.com/dakidarts/ali-woo-reviews-scraper/issues).
 
-## Contribution
+## ⚙️ Contribution
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
-## Social Handles
+## 🔗 Social Handles
 
 Connect with me on:
 - [LinkedIn](https://linkedin.com/in/dakidarts)
 - [Twitter](https://twitter.com/dakidarts)
 - [Instagram](https://instagram.com/dakidarts)
 - [Website](https://dakidarts.com)
+
+## ☕️ Support the Dev
+
+If you find this Ali-Woo Reviews Scraper helpful, consider [buying me a coffee](https://www.buymeacoffee.com/dakidarts)!
+Your support keeps projects like these going. Thank you! 🙌
 
 ## Happy Scrapping and Enhancing Your Product Insights! 🌟
