@@ -18,6 +18,9 @@ Supercharge your WooCommerce store with this Python script! Capture AliExpress r
 
 ### Get Started:
 
+**Pre-requisite** 
+- Make sure you already have python3 installed else [download python3](https://www.python.org/downloads/)!
+
 1. **Download the Script:**
     - Visit the [GitHub Repository](https://github.com/dakidarts/ali-woo-reviews-scraper) and click on the "Code" button. You can either download the ZIP file or use Git to clone the repository to your local machine.
 
@@ -55,6 +58,8 @@ Supercharge your WooCommerce store with this Python script! Capture AliExpress r
 ## 🗳️ Demo
 
 Watch the [Demo Video](assets/preview.mp4) to see the scraper in action.
+
+<video src="assets/preview.mp4"></video>
 
 ## 🪛 Support
 
