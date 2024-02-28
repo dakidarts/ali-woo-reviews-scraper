@@ -50,7 +50,7 @@ def get_html_content(driver, url, num_reviews):
     driver.get(url)
     driver.implicitly_wait(10)  # Set a default implicit wait time
 
-    # Execute JavaScript to click the button and load initial reviews
+    # Execute JavaScript to click the button
     button_script = 'document.querySelector("#root > div > div.pdp-body.pdp-wrap > div > div.pdp-body-top-left > div.comet-v2-anchor.navigation--wrap--RttKRTy.notranslate.navigation--is23--LHKnr7b > div > div > a.comet-v2-anchor-link.comet-v2-anchor-link-active").click();'
     driver.execute_script(button_script)
 
@@ -102,14 +102,18 @@ def parse_reviews(html_content):
         if not p_review:
             continue
         
+        
         media_list = [img['src'] for img in p_img.find_all('img', class_='ae-evaluateList-card-img')] if p_img else None
+        
+        media_links = ','.join(media_list) if media_list else ''
         
         productId = woo_id if not None else product_id
         
         display_name = p_title_box.find('div', class_='ae-evaluateList-card-name').get_text(strip=True)
         
         display_name = 'Store Shopper' if display_name == 'AliExpress Shopper' else display_name
-
+        
+        email = "demo@demo.com"
         
         review_data = {
             'review_content': p_review.find('div', class_='ae-evaluateList-card-content').get_text(strip=True),
@@ -117,9 +121,9 @@ def parse_reviews(html_content):
             'date': p_score_e.find('div', class_='ae-evaluateList-card-date').get_text(strip=True),
             'product_id': productId,
             'display_name': display_name,
-            'email': None,
+            'email': email,
             'order_id': None,
-            'media': media_list
+            'media': media_links
         }
 
         # Filter reviews based on minimum rating

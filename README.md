@@ -54,12 +54,19 @@ Supercharge your WooCommerce store with this Python script! Capture AliExpress r
 
 6. **Retrieve and Analyze:**
     - View your scraped reviews in the generated CSV file. Utilize this data to enhance your product understanding and customer satisfaction.
-
+    
+7. **Importing Reviews with Ease:**
+    - Revolutionize your Woo store with a breeze! Utilize our handpicked [free plugin](https://en-ca.wordpress.org/plugins/customer-reviews-woocommerce/) to effortlessly import reviews. The CSV columns are perfectly aligned, making the integration process as smooth as silk.
+    
 ## 🗳️ Demo
 
-Watch the [Demo Video](assets/preview.mp4) to see the scraper in action.
+Watch the [Demo Video](https://www.youtube.com/watch?v=HtOowgYIEQ8)) to see the scraper in action.
 
-<video src="assets/preview.mp4"></video>
+
+
+https://github.com/dakidarts/ali-woo-reviews-scraper/assets/83160629/e397d692-a2d3-439e-8c1a-b5da9ffea3e9
+
+
 
 ## 🪛 Support
 
@@ -82,4 +89,4 @@ Connect with me on:
 If you find this Ali-Woo Reviews Scraper helpful, consider [buying me a coffee](https://www.buymeacoffee.com/dakidarts)!
 Your support keeps projects like these going. Thank you! 🙌
 
-## Happy Scrapping and Enhancing Your Product Insights! 🌟
+## 🌟 Happy Scrapping and Enhancing Your Product Insights! 
